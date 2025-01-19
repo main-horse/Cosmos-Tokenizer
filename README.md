@@ -32,6 +32,11 @@ Cosmos Tokenizer delivers 8x more total compression than state-of-the-art (SOTA)
 
 ![Arch](assets/arch_diagram.jpg)
 
+## Web Demo
+
+* Image Tokenization [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nvidia/Cosmos-Tokenizer/blob/main/notebook/Image_Tokenization.ipynb)
+* Video Tokenization [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nvidia/Cosmos-Tokenizer/blob/main/notebook/Video_Tokenization.ipynb)
+
 ## Licenses
 - **Models**: The models are licensed under [NVIDIA Open Model License](https://developer.download.nvidia.com/licenses/nvidia-open-model-license-agreement-june-2024.pdf). Under the NVIDIA Open Model License, NVIDIA confirms:
   - Models are commercially usable. 

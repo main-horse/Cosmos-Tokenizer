@@ -53,7 +53,8 @@ cd Cosmos-Tokenizer
 ```
 - Install via pip
 ```
-apt-get install -y ffmpeg
+apt-get install -y ffmpeg git-lfs
+git lfs pull
 pip3 install -e .
 ```
 

@@ -14,8 +14,8 @@
 # limitations under the License. -->
 # Cosmos Tokenizer: A suite of image and video neural tokenizers.
 
-As of February 10th, 2025, this repo has been **read-only**. <br />
-**Please visit [github.com/NVIDIA/Cosmos](https://github.com/nvidia/cosmos) for future updates and support on Cosmos Tokenizer**.
+As of February 10th, 2025, this repository is **read-only**. <br />
+**Please visit [github.com/NVIDIA/Cosmos](https://github.com/nvidia/cosmos) for the latest updates and support on Cosmos Tokenizer**.
 
 ### [Website](https://research.nvidia.com/labs/dir/cosmos-tokenizer) | [Paper](https://arxiv.org/abs/2501.03575) | [NVIDIA Cosmos](https://www.nvidia.com/en-us/ai/cosmos/) | [NVIDIA Blog](https://developer.nvidia.com/blog/state-of-the-art-multimodal-generative-ai-model-development-with-nvidia-nemo/)  | [Hugging Face](https://huggingface.co/collections/nvidia/cosmos-tokenizer-672b93023add81b66a8ff8e6) | [YouTube](https://youtu.be/Soy_myOfWIU) | [TokenBench](https://github.com/NVlabs/TokenBench)
 
